@@ -1,0 +1,13 @@
+body{
+  background-color: red
+}
+h1{
+  font-size: 40em
+}
+p{
+  text-decoration-color: blue
+}
+img{
+  width: 300px;
+  border-radius: 50%;
+}
